@@ -1,7 +1,7 @@
 # NY CitiBike Challenge Analysis
 Analysis of NY CitiBike ridesharing data from August 2019. 
 ## Tableau Dashboard
-[Link to dashboard](https://public.tableau.com/views/NYCCitiBikeAnalysischallenge_16527524809360/CustomerDescription?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+[Link to dashboard](https://public.tableau.com/views/CitI_Bike_Analysis/CitiBike_Analysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 ## Overview of the Analysis
 Investors are interested in expanding the bikshare program CitiBike from NYC to Des Moines, Iowa. Although NYC is very different than Des Moines, performing analyses of the NYC program data may help answer some important questions. 
 - What is the customer breakdown of the CitiBike Program? 
